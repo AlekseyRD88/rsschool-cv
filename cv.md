@@ -18,6 +18,7 @@ I like to communicate with other people and build new connections. I will be gla
 - HTML
 - CSS/SCSS
 - Javascript
+- Webpack
 - Git
 - React (Beginner)
 - Redux (Beginner)
