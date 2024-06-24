@@ -2,11 +2,14 @@
 
 # Aleksei Zhandarov
 
+## Junior Frontend developer
+
 ## Contacts
 
 - Location: Kostyantunivka, Donetsk region, Ukraine
 - Phone: +380665247242
 - Email: zhandaleks88@gmail.com
+- Discord: Aleksei(@AlekseyRD88)
 - Github: [https://github.com/AlekseyRD88](AlekseyRD88)
 
 ## About me
