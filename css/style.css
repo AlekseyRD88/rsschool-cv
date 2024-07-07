@@ -1,0 +1,241 @@
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  
+}
+
+body {
+  background: #f5f7fa;
+  padding: 40px 20px;
+  font-family: Montserrat, Arial, Helvetica, sans-serif;
+}
+
+.list {
+  list-style: none;
+}
+
+.wrapper {
+  background: #ffffff;
+  max-width: 1200px;
+  margin: 0 auto;
+  box-shadow: 5px 9px 20px rgb(0, 0, 0, 15);
+}
+
+.header {
+  background-color:#ff6b08;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style-type: none;
+}
+.nav-link {
+  padding: 0 12px;
+  text-decoration: none;
+  line-height: 50px;
+  color: #fff;
+}
+.sidebar {
+  background: #1e2939;
+  width: 370px;
+  padding-top: 40px;
+  padding-bottom: 40px;
+}
+
+.image {
+  width: 370px;
+  height: 370px;
+  margin: -40px 0 -40px;
+}
+
+.container {
+  padding: 110px 90px;
+}
+
+.main-container {
+  display: flex;
+}
+.contacts {
+  margin-top: 60px;
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.contacts-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.link {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #aeb2b7;
+  margin-right: 10px;
+}
+
+.span {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #ffffff;
+  margin-right: 10px;
+}
+
+.tech-skills-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+  color: #ffffff;
+}
+
+.tech-skills {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 35px;
+}
+
+.tech-li {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #ff6b08;
+  margin-left: 15px;
+}
+
+.text {
+  color: #aeb2b7;
+}
+
+.language-skills {
+  margin-left: 40px;
+  margin-right: 40px;
+  margin-top: 35px;
+}
+.language_skills-title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  color: #ffffff;
+  margin-bottom: 20px;
+}
+
+.skills-li {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+  color: #ff6b08;
+  margin-left: 15px;
+}
+
+.text_skills {
+  color: #aeb2b7;
+}
+
+.name {
+  font-size: 45px;
+  font-weight: 700;
+  line-height: 89px;
+  text-align: center;
+}
+
+.description {
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.about-link {
+  color: currentColor;
+}
+
+.info {
+  margin-bottom: 35px;
+}
+
+.title {
+  font-size: 22px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-bottom: 20px;
+  text-align: center;
+}
+
+.projects-link {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.projects-item + .projects-item {
+  margin-top: 10px;
+}
+
+.tech-name {
+  color: #595959;
+  font-size: 14px;
+  font-weight: 400;
+  line-height: 24px;
+}
+
+.dots {
+  color: #bebebe;
+  font-weight: 100;
+}
+
+.projects-item {
+  font-weight: 700;
+  margin-left: 17px;
+}
+
+.projects-container {
+  margin-bottom: 55px;
+}
+
+.study {
+  color: #a25e30;
+  font-size: 16px;
+  font-weight: 700;
+  line-height: 24px;
+  margin-top: 15px;
+  margin-bottom: 10px;
+}
+
+.spec {
+  font-size: 14px;
+  font-weight: 700;
+  line-height: 24px;
+}
+
+.study-time {
+  color: #a8a8a8;
+  font-size: 12px;
+  font-weight: 400;
+  line-height: 24px;
+}
+.footer {
+  padding: 20px;
+  background-color: #ff6b08;
+}
+.footer-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 0 auto;
+  color: #fff;
+}
+.logo {
+  width: 120px;
+  height: 45px;
+  background-image: url('../assets/img/rs-school-logo.svg');
+  background-size: contain;
+  background-repeat: no-repeat;
+}
