@@ -12,3 +12,21 @@
 ## About me
 
 I'm an enthusiastic and motivated Junior Front-End Developer. I'm interested in building user-friendly interfaces and understanding customer needs. My tech stack includes HTML, CSS, SCSS, JavaScript, React, Redux, Webpack, REST APIs, and Git.
+
+## Skills
+
+- HTML
+- CSS
+- JavaScript
+- Git
+- SQL
+- React
+- Redux
+
+## Code example
+
+```
+function addNumbers(a, b) {
+  return a + b;
+}
+```
