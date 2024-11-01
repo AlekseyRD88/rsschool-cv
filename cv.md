@@ -30,3 +30,16 @@ function addNumbers(a, b) {
   return a + b;
 }
 ```
+## Education
+
+- **Donetsk national university**
+    - Management
+- **Gromcode**
+    - Front-End
+
+## Languages
+
+- **Russian** - native speaker
+- **Ukrainian** - fluent
+- **English** - B2
+- **German** - A2
